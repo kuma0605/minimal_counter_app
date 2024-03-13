@@ -2,6 +2,8 @@
 
 minimal counter
 
+use built-in ValueNotifier and ValueListenableBuilder classes to implement counter
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
